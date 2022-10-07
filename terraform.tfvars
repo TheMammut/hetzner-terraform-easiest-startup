@@ -1,0 +1,1 @@
+hcloud_token = "HERE_IS_YOUR_API_TOKEN"
