@@ -1,5 +1,5 @@
 
-resource "hcloud_server" "node1" {
+resource "hcloud_server" "hcloud-vm-server" {
   name        = "demo-host-vm"
   image       = "ubuntu-22.04"
   server_type = "cpx11"
